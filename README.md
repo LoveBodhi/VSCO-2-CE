@@ -1,16 +1,18 @@
 # VS Chamber Orchestra: Community Edition
-An open-source orchestral library.
+这是一个开源的管弦乐音色库。
 
-Quick Download of SFZ version 1.1.0:
+下载SFZ格式（1.1.0）版本：
 https://github.com/sgossner/VSCO-2-CE/releases/tag/1.1.0
+
+English: https://github.com/sgossner/VSCO-2-CE
 
 En español: https://github.com/MrAndersj/VSCO-2-CE/tree/SFZ
 (Includes instructions for use with Ardour on Ubuntu/Linux)
 
-Recorded by Sam Gossner & Simon Dalzell; Sample Cutting by Elan Hickler/Soundemote
+由 Sam Gossner 和 Simon Dalzell 录制；由 Elan Hickler/Soundemote 剪切采样。
 
-More information: http://vis.versilstudios.net/vsco-community.html
+更多信息，请参阅：http://vis.versilstudios.net/vsco-community.html （英文）
 
-Note: Please don't edit an existing branch. Create your own branch, sub-branch, or fork, or just download the files and work 'off the hub'.
+备注：请勿直接更改现有的分支；请您创建新的分支、子分支，或者派生，或者下载到本地。
 
-To access SFZ, click the button labeled "Branch: master" to the upper left and select 'sfz'. To download, click the green 'clone or download' button to the right.
+要切换SFZ格式的音色库，请点击“master”，然后选择 'sfz' 分支。要下载文件，点击 'clone or download' 按钮即可。
